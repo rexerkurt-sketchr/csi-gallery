@@ -1,0 +1,6 @@
+hBN - Moire Patterns
+
+Multi-modal analysis of hexagonal boron nitride showing Moire patterns. 10 micron HD-KFM, 2 micron PFM, and 1 micron HD-KFM scan results combined.
+
+Mode: Multi-modal (HD-KFM + PFM)
+Scan Sizes: 10, 2, 1 microns

@@ -1,0 +1,7 @@
+Solid-State Polymer Battery
+
+Multi-modal analysis showing Soft ResiScope and HD-KFM III on the same sample. Combined current, resistance, and surface potential mapping of a solid-state polymer battery.
+
+Mode: Multi-modal (Soft ResiScope + HD-KFM III)
+Signals: Current, Resistance, Surface Potential
+Scan Size: 50x50 microns

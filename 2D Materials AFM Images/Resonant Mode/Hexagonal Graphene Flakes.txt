@@ -1,0 +1,7 @@
+Hexagonal Graphene Flakes
+
+Resonant mode phase channel image of a SiO2 substrate (red area) with hexagonal graphene flakes (green domains). On some of the flakes a second hexagonal monolayer is measured (blue areas).
+
+Mode: Resonant Mode
+Signal: Phase
+Scan Size: 3 microns

@@ -1,0 +1,7 @@
+Rubber
+
+Natural rubber and Aac mixture - scans show clear differentiation between Aac (dark brown areas) and rubber phases (white areas).
+
+Mode: Resonant Mode
+Signals: Topography, Phase Signal
+Scan Size: 10 microns

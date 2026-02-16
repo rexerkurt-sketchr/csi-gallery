@@ -1,0 +1,7 @@
+Perovskite Solar Cell
+
+Topography and ResiScope resistance measurement on a perovskite solar cell structure.
+
+Mode: ResiScope
+Signals: Topography, Resistance
+Scan Size: 2x2 microns

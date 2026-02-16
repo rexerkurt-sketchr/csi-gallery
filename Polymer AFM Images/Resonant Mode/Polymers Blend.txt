@@ -1,0 +1,7 @@
+Polymers Blend
+
+Copolymer showing regions with vertical and horizontal cylindrical arrangement and also horizontal and vertical lamellar arrangement.
+
+Mode: Resonant Mode
+Signals: Topography, Phase Signal
+Scan Size: 2x2 microns

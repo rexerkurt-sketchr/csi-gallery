@@ -1,0 +1,7 @@
+Polymer Blend PS-PMMA
+
+Polystyrene-Polymethyl methacrylate (PS-PMMA) polymer blend imaged using Force Modulation mode, revealing topography, amplitude, and phase characteristics.
+
+Mode: Force Modulation
+Signals: Topography, Amplitude, Phase
+Scan Size: 5x5 microns

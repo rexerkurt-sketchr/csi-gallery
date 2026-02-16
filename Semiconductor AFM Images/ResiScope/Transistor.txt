@@ -1,0 +1,3 @@
+Transistor
+
+ResiScope image of a transistor device (1.5 micron size). Image was obtained over a polished cleaved device showing part of the drain and gate areas. Resistance map is capable of distinguishing between p, n and n+ regions (blue, green and red).

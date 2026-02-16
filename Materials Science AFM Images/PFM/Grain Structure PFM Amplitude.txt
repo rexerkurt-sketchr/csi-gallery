@@ -1,0 +1,7 @@
+Grain Structure - PFM Amplitude
+
+Piezoresponse Force Microscopy amplitude imaging of grain structure. Amplitude signal maps the piezoelectric response strength across different grains.
+
+Mode: PFM
+Signal: Amplitude
+Scan Size: 5x5 microns

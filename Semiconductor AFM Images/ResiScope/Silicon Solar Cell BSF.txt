@@ -1,0 +1,8 @@
+Silicon Solar Cell - Back Surface Field (BSF)
+
+ResiScope measurement on a silicon solar cell. (Top) Current image close to the edge of the solar cell. The multilayer structure is visible (red, green, blue and dark blue areas). More importantly, the high speed response of the ResiScope allows to identify a thin layer (bottom) in the blue region of 30 nm lateral size. This heavy doped layer is known as "Back Surface Field" and allows to prevent recombination at the back of the solar cell and increase the efficiency.
+
+This sample shows 3 main aspects of ResiScope:
+- High dynamic range: from 150 pA to 90 µA
+- Fast dynamic response: capable of detecting the BSF
+- Current limit (protective resistance): typically a high current of 90 µA implies damage on either the tip coating or the sample.

@@ -1,0 +1,6 @@
+Fibre
+
+Fibre surface morphology imaged using Resonant mode. Topography reveals surface texture and structural details of the fibre material.
+
+Mode: Resonant Mode
+Scan Size: 10x10 microns

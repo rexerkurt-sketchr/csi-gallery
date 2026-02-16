@@ -1,0 +1,7 @@
+Block Copolymer
+
+Block Copolymer showing typical lamellar structure with neighbours distance of 80 nm.
+
+Mode: Resonant Mode
+Signals: Topography & 3D
+Scan Size: 1x1 micron

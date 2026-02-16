@@ -1,0 +1,6 @@
+DNA Sample
+
+DNA molecules imaged using Oscillating mode at high resolution. Individual DNA strands and their structural conformation are visible.
+
+Mode: Oscillating Mode
+Scan Size: 800x800 nm

@@ -1,0 +1,7 @@
+Cobalt Alloy Coating
+
+Magnetic domain imaging of cobalt alloy coating using MFM (Magnetic Force Microscopy) signals. Reveals magnetic domain structure and orientation.
+
+Mode: MFM
+Signal: Magnetic Force
+Scan Size: 30x30 microns

@@ -1,0 +1,7 @@
+Structured Polymer
+
+Polymer composite with carbon fillers. Phase image allows to differentiate 50 nm width carbon domains (bright areas) and polymer matrix (dark brown areas).
+
+Mode: Resonant Mode
+Signals: Topography, Phase Signal
+Scan Size: 5x5 microns

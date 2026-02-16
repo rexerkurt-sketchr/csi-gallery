@@ -1,0 +1,3 @@
+Doped Dots
+
+ResiScope image of a semiconductor sample (50 micron size) with increasing doped dots. Resistance image shows clearly the position of the doped dots with decreasing resistance from left to right due to increasing doping levels.

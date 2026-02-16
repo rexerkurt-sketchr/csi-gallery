@@ -1,0 +1,7 @@
+Human Chromosome
+
+Human chromosome imaged using Resonant mode. Topography signal reveals the characteristic structure and morphology of the chromosome.
+
+Mode: Resonant Mode
+Signal: Topography
+Scan Size: 10x10 microns

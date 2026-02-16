@@ -1,0 +1,7 @@
+Hexagonal Boron Nitride (hBN)
+
+HD-KFM scans of hexagonal boron nitride (hBN) were performed, starting with a 25x25 um area, followed by a 10x10 um region, and finally zooming into a 4x4 um spot. The last scan clearly shows Moire patterns.
+
+Mode: HD-KFM
+Signal: Surface Potential
+Scan Sizes: 25x25, 10x10, 4x4 microns

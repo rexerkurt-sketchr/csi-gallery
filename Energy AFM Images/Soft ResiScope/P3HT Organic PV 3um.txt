@@ -1,0 +1,7 @@
+P3HT - Organic PV Cell
+
+P3HT organic photovoltaic cell imaged using Soft Intermittent Contact mode combined with ResiScope.
+
+Mode: Soft Intermittent Contact + ResiScope
+Signals: Topography, Resistance
+Scan Size: 3x3 microns

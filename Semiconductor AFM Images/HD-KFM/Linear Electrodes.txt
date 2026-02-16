@@ -1,0 +1,3 @@
+Linear Electrodes
+
+HD-KFM image (10 microns size) of 3 biased linear electrodes on silicon surface (bias 1 volt). The surface potential shows homogeneous value on the surface of the electrodes (dark blue areas) but also lateral diffusion of the surface potential around the electrodes (cyan areas).

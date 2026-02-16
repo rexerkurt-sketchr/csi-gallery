@@ -1,0 +1,5 @@
+Copper Sample
+
+Copper surface topography revealing grain structure, surface roughness and crystallographic features.
+
+Scan Size: 5x5 microns

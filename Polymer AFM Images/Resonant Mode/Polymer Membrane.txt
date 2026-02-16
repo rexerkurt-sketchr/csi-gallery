@@ -1,0 +1,7 @@
+Polymer Membrane
+
+High-resolution imaging of a polymer membrane surface structure.
+
+Mode: Resonant Mode
+Signals: Topography & 3D
+Scan Size: 0.5x0.5 micron

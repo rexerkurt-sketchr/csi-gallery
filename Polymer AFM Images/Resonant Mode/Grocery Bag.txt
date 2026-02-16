@@ -1,0 +1,7 @@
+Grocery Bag
+
+Polymer surface analysis of a common grocery bag material at the nanoscale.
+
+Mode: Resonant Mode
+Signals: Topography, Phase Signal
+Scan Size: 1 micron

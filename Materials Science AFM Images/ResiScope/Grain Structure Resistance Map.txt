@@ -1,0 +1,7 @@
+Grain Structure - Resistance Map
+
+ResiScope resistance mapping of grain structure. Resistance variation across grains provides insight into local conductivity and defect distribution.
+
+Mode: ResiScope
+Signal: Resistance Map
+Scan Size: 5x5 microns

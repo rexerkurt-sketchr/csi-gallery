@@ -1,0 +1,7 @@
+P3HT Sample - Organic PV Cell
+
+Topography and ResiScope III conductivity mapping of organic solar cell using Soft ResiScope mode.
+
+Mode: Soft ResiScope
+Signals: Topography, Conductivity
+Scan Size: 5x5 microns

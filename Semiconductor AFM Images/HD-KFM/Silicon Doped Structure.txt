@@ -1,0 +1,3 @@
+Silicon Doped Structure
+
+HD-KFM image of a silicon doped structure (3 microns size) consisting on implanted n-doped square structures (red color). The high sensitivity of the HD-KFM allows to clearly detect the lateral diffusion of the implantation around the square (yellow shadow around the square structure).

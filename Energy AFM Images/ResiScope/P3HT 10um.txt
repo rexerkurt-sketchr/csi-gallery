@@ -1,0 +1,7 @@
+P3HT
+
+Topography and resistance measurement with ResiScope mode on P3HT organic photovoltaic material.
+
+Mode: ResiScope
+Signals: Topography, Resistance
+Scan Size: 10x10 microns

@@ -1,0 +1,7 @@
+Metallic Particules
+
+Surface potential mapping of metallic particles using HD-KFM mode.
+
+Mode: HD-KFM
+Signal: Surface Potential
+Scan Size: 10x10 microns

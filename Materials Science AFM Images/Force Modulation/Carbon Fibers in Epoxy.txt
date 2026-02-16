@@ -1,0 +1,6 @@
+Carbon Fibers in Epoxy
+
+Carbon fiber composite in epoxy matrix imaged using Force Modulation mode. Mechanical contrast reveals fiber-matrix interface properties.
+
+Mode: Force Modulation
+Scan Size: 30x30 microns

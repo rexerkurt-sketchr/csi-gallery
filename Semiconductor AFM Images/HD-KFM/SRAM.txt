@@ -1,0 +1,3 @@
+SRAM Memory Device
+
+HD-KFM image of an SRAM Memory device (50 micron size). Surface potential image shows clear distinction between p, n and n+ regions with high sensitivity without showing saturation.

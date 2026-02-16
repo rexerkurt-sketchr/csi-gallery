@@ -1,0 +1,6 @@
+MoS2 (Molybdenum Disulfide)
+
+Multi-modal MoS2 analysis showing topography, resistance, and surface potential. ResiScope shows higher resistance in monolayers, decreasing exponentially with layer thickness. Combined with HD-KFM surface potential mapping, this dual analysis on the same location links structural and electronic properties, advancing nanoelectronic and optoelectronic design.
+
+Mode: Multi-modal (ResiScope + HD-KFM)
+Signals: Topography, Resistance, Surface Potential

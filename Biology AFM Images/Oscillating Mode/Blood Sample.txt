@@ -1,0 +1,6 @@
+Blood Sample
+
+Blood sample imaged in liquid environment using Oscillating mode. Topography reveals cell morphology and surface features.
+
+Mode: Oscillating Mode
+Scan Size: 80x80 microns

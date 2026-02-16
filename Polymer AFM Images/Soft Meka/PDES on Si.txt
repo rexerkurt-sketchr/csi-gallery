@@ -1,0 +1,7 @@
+PDES on Si
+
+Poly(diethylsiloxane) on silicon substrate imaged using Soft Meka mode, providing topography, adhesion, and stiffness mapping.
+
+Mode: Soft Meka
+Signals: Topography, Adhesion, Stiffness
+Scan Size: 10x10 microns

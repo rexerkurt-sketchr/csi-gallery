@@ -1,0 +1,3 @@
+SiC Doping Profile
+
+ResiScope measurement on a cross-section of a silicon substrate of 500 nm with regions with increasing level of carrier concentration (staircase type). Topography (top) image of the sample; polishing vertical lines are visible. (Middle and bottom) Resistance map and its cross-section profile respectively. The doped regions range from 100 ohms to 1 Mohm (from right to left). This shows the capability of ResiScope to track differences in realtime with several orders of magnitude in difference (from 10^2 to 10^6 ohms) without losing sensitivity.

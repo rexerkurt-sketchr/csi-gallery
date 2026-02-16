@@ -1,0 +1,5 @@
+Gold Deposition
+
+Gold thin film deposition on substrate. Topography reveals grain structure and surface morphology of the deposited gold layer.
+
+Scan Size: 5x5 microns

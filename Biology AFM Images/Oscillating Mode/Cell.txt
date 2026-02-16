@@ -1,0 +1,6 @@
+Cell
+
+Biological cell imaged in liquid environment using Oscillating mode. Topography captures cellular surface structure and morphology.
+
+Mode: Oscillating Mode
+Scan Size: 80x80 microns

@@ -1,0 +1,7 @@
+Periodically Poled Lithium
+
+Periodically poled lithium niobate (PPLN) imaged using PFM mode. Topography and phase imaging reveal the periodic domain structure created by electric field poling.
+
+Mode: PFM
+Signals: Topography, Phase
+Scan Size: 50x50 microns

@@ -1,0 +1,7 @@
+Grain Structure - PFM Phase
+
+Piezoresponse Force Microscopy phase imaging of grain structure. Phase contrast reveals ferroelectric domain orientation within individual grains.
+
+Mode: PFM
+Signal: Phase
+Scan Size: 5x5 microns

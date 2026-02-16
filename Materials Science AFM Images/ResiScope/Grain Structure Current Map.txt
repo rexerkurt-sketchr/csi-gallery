@@ -1,0 +1,7 @@
+Grain Structure - Current Map
+
+ResiScope current mapping of grain structure. Current distribution reveals electrical heterogeneity across different grains and grain boundaries.
+
+Mode: ResiScope
+Signal: Current Map
+Scan Size: 5x5 microns

@@ -1,0 +1,8 @@
+Conductive AFM vs ResiScope — Battery Cross-section Analysis
+
+Comparative cross-section analysis of a battery sample demonstrating the advantage of ResiScope over conventional Conductive AFM. Three panels show the same sample and same scan line: Conductive AFM suffers from range limitations and signal saturation, resulting in corrupted data at both extremes. ResiScope preserves measurement integrity across the full dynamic range, delivering precise resistance values without clipping or saturation artifacts.
+
+Mode: ResiScope
+Application: Battery
+Signals: Current & Resistance (cross-section)
+Key Advantage: Full dynamic range preservation — no saturation, no range limits

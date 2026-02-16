@@ -1,0 +1,7 @@
+Stainless Steel
+
+Surface potential characterization of stainless steel using HD-KFM mode, revealing grain boundary potentials and surface heterogeneity.
+
+Mode: HD-KFM
+Signal: Surface Potential
+Scan Size: 20 microns

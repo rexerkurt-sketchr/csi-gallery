@@ -1,0 +1,7 @@
+Graphene Sample on Si
+
+HD-KFM mode surface potential measurement of graphene on silicon substrate. Surface potential mapping reveals electrical properties of the graphene layer.
+
+Mode: HD-KFM
+Signal: Surface Potential
+Scan Size: 20x20 microns
